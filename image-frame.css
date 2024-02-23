@@ -1,0 +1,6 @@
+.image-frame {
+    border: 2px solid #10da38;
+    padding: 10px; 
+    border-radius: 1px;
+    box-shadow: 10px 25px 1px rgba(223, 13, 13, 0.889); 
+}
